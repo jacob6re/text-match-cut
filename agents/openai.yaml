@@ -1,0 +1,4 @@
+interface:
+  display_name: "text-match-cut"
+  short_description: "20 个真实网页关键词高亮快闪，加入鱼眼与胶片更换声并导出 MP4"
+  default_prompt: "使用 $text-match-cut，把关键词在 20 个不同真实网页中的高亮画面做成带鱼眼效果和胶片更换声的快闪 MP4。"
