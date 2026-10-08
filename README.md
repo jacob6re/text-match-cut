@@ -12,7 +12,7 @@
 git clone https://github.com/jacob6re/text-match-cut.git ~/.codex/skills/text-match-cut
 ```
 
-这是私有仓库，克隆需要有访问权限。重新打开 Codex 后，可以请求：
+重新打开 Codex 后，可以请求：
 
 ```text
 $text-match-cut 生成关键词为“边做边学”的视频
